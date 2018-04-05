@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-Singleton/1-Singleton.iml" filepath="$PROJECT_DIR$/1-Singleton/1-Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-FactoryMethod/2-FactoryMethod.iml" filepath="$PROJECT_DIR$/2-FactoryMethod/2-FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-AbstractFactory/3-AbstractFactory.iml" filepath="$PROJECT_DIR$/3-AbstractFactory/3-AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-Decorator/4-Decorator.iml" filepath="$PROJECT_DIR$/4-Decorator/4-Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-Adapter/5-Adapter.iml" filepath="$PROJECT_DIR$/5-Adapter/5-Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-Facade/6-Facade.iml" filepath="$PROJECT_DIR$/6-Facade/6-Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-Observer/7-Observer.iml" filepath="$PROJECT_DIR$/7-Observer/7-Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-State/8-State.iml" filepath="$PROJECT_DIR$/8-State/8-State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-Strategy/9-Strategy.iml" filepath="$PROJECT_DIR$/9-Strategy/9-Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns.iml" filepath="$PROJECT_DIR$/patterns.iml" />
+    </modules>
+  </component>
+</project>
